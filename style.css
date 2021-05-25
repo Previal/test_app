@@ -1,0 +1,25 @@
+.colors{
+    color: blue !important; 
+    transition: color 1s ease-in-out;
+}
+
+.colors2{
+    transition: color 1s ease-in-out;
+    color: rgb(20, 220, 70);
+}
+.js-title{
+    margin-left: 50px;
+    font-size: 70px;
+    color: brown ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.js-form{
+    margin-left: 50px;
+    height: 70px;
+    
+}
+.second{
+    color: blueviolet;
+    font-size: 100px;
+    
+}
